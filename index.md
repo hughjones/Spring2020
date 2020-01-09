@@ -6,28 +6,14 @@ The study and practice of digital governance should be the study and practice of
 
 ## Important Links
 
-- [Syllabus](./syllabus.md)
+- [Syllabus](https://duckduckgo.com)
 
 - [Schedule](./schedule.md)
 
-- [How to Submit Assignments](./submit.md)
-
-- [Critique Assignment](./critique.md)
-
-## Student Media Selections
-
-- [Crystal](./media-selections/Crystal.md)
-
-- [Hugh](./media-selections/hugh.md)
-
-- [Jessica](./media-selections/jessica.md)
-
-- [Katherine](./media-selections/katherine.md)
-
-- [Prachi](./media-selections/Prachi.md)
-
 ## Contact
 
-- [Charlotte McClintock](mailto:char@virginia.edu)
+- [Hugh Jones](mailto:hrj3bs@virginia.edu)
 
 - [Rohit Musti](mailto:ro@virginia.edu)
+
+- [Charlotte McClintock](mailto:char@virginia.edu)
