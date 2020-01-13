@@ -1,6 +1,6 @@
 ## Syllabus
 
-Instructors: [Hugh Jones](https://hughrjones.com/), [Rohit Musti](https://charlottemcclintock.github.io/), [Rohit Musti](https://rohitmusti.dev/)
+Instructors: [Hugh Jones](https://hughrjones.com/), [Rohit Musti](https://rohitmusti.dev/), [Charlotte McClintock](https://charlottemcclintock.github.io/)
 
 ## Overview
 
