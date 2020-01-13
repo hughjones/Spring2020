@@ -6,7 +6,7 @@ The study and practice of digital governance should be the study and practice of
 
 ## Important Links
 
-- [Syllabus](https://duckduckgo.com)
+- [Syllabus](./syllabus.md)
 
 - [Schedule](./schedule.md)
 
