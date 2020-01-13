@@ -2,7 +2,7 @@
 
 | |Date | Topic | Media| Category|
 |---	|---	|---	|---	| --- |
-|[Lesson 0](lessons/lesson0.md)| January 13, 2020 | NA | NA |
+|[Lesson 0](lessons/lesson0.md)| January 13, 2020 |Content Moderation (free speech restrictions)  on the Internet| [Patriot Act](https://www.youtube.com/watch?v=5CQ5-NMzG8s), [New Yorker](https://www.newyorker.com/news/q-and-a/the-underworld-of-online-content-moderation), [EFF](https://www.eff.org/deeplinks/2019/04/content-moderation-broken-let-us-count-ways)| Goverance of Technology |
 |-| January 20, 2020 | Martin Luther King Day | NA |
 |[Lesson 1](https://duckduckgo.com)| January 27, 2020 | NA | NA |
 |[Lesson 2](https://duckduckgo.com)| February 3, 2020 | NA | NA |
