@@ -5,7 +5,7 @@ Find a partner or a group and introduce yourself!
 Include:
 
 - Name, year, what you're studying, and why you're in this class
-- If you were a digital entity, what would you be and why?
+- Where in the world are you most excited/nervous to see change?
 
 Remember your new classmates, because you'll be introducing each other!
 
