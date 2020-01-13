@@ -2,7 +2,7 @@
 
 | |Date | Topic | Media| Category|
 |---	|---	|---	|---	| --- |
-|[Lesson 0](https://duckduckgo.com)| January 13, 2020 | NA | NA |
+|[Lesson 0](lessons/lesson0.md)| January 13, 2020 | NA | NA |
 |-| January 20, 2020 | Martin Luther King Day | NA |
 |[Lesson 1](https://duckduckgo.com)| January 27, 2020 | NA | NA |
 |[Lesson 2](https://duckduckgo.com)| February 3, 2020 | NA | NA |
